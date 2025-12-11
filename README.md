@@ -63,7 +63,7 @@ Extracts text and generates personalized questions.
 ### **Output 2 — Interview Interface**
 Records audio/video responses and displays each question.
 
-<img width="1532" height="770" alt="image" src="" />
+![WhatsApp Image 2025-12-11 at 21 54 29_cf5fe380](https://github.com/user-attachments/assets/deaf8e1d-4edb-4ab8-9ae8-c42727cf3e81)
 
 
 ### **Output 3 — Results Dashboard**
